@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GitHubDrop
+Comment=Drag and drop files here to save and sync
+Exec=xdg-open /home/snap/Desktop/z_GitHubDrop
+Icon=/home/snap/Desktop/z_GitHubDrop/github_icon.png
+Terminal=false
+Categories=Utility;
+StartupNotify=true
