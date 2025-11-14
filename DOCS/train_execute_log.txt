@@ -1,0 +1,10 @@
+[2025-11-11 10:17:49] === SingLoRA Trainer Execution Started ===
+[2025-11-11 10:17:49] Loaded project: SingLoRA_Test_Run
+[2025-11-11 10:17:49] Using base model: netayume
+[2025-11-11 10:17:49] Training data: /home/snap/Desktop/z_SingLoRA_Project/DATA
+[2025-11-11 10:17:49] Output path: /home/snap/Desktop/z_SingLoRA_Project/OUTPUT
+[2025-11-11 10:17:49] Found 5 training images.
+[2025-11-11 10:17:49] Starting epoch 1/1...
+[2025-11-11 10:17:51] Epoch 1/1 complete.
+[2025-11-11 10:17:51] LoRA output saved to: /home/snap/Desktop/z_SingLoRA_Project/OUTPUT/trained_model_lora.safetensors
+[2025-11-11 10:17:51] === Trainer Execution Complete ===

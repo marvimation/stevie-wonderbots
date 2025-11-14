@@ -1,0 +1,70 @@
+======================
+SingLoRA Project Plan
+======================
+
+📅 Date Created: 2025-11-11
+👤 Author: snap@spectre
+💻 System: HP Spectre Linux
+🧠 Purpose: Organized workspace for SingLoRA dataset rebuilds, simulations, and text training.
+
+----------------------
+📁 Folder Structure
+----------------------
+DATA/   - Training images, captions, text files
+OUTPUT/ - Model outputs, LoRA weights, preview results
+DOCS/   - Logs, configs, and test notes
+
+----------------------
+🧩 Step Tracking
+----------------------
+[ ] Step 1 - Create project folders
+[ ] Step 2 - Add dataset simulation and text rebuild
+[ ] Step 3 - Prepare LoRA model run config
+[ ] Step 4 - Verify output consistency
+[ ] Step 5 - Archive results and cleanup
+
+----------------------
+🧰 Current Tools
+----------------------
+• Python environment: (to confirm)
+• LoRA base: SingLoRA
+• Models: netayume, wan 2.1 redfox
+• Dataset Type: text + image paired
+• Primary directory: ~/Desktop/z_SingLoRA_Project
+
+----------------------
+📜 Log Section
+----------------------
+- (Log notes and issues go here)
+
+SingLoRA Project Plan
+=====================
+
+Main Folder:
+~/Desktop/z_SingLoRA_Project
+
+Subfolders:
+1. SIM_DATA/
+   - images/       --> Store all input images here (e.g., woman1.png … woman10.png)
+   - captions/     --> Captions generated for training will go here
+2. LOGS/           --> Training logs, progress logs, error logs
+3. OUTPUT/         --> Final models or results will be exported here
+4. DATA/           --> Temporary or additional dataset storage
+5. DOCS/           --> Documentation, references, strategy files
+
+Key Files:
+- generate_image_captions.py   --> Script for generating captions from images
+- work_strategy_for_ai_zz.txt  --> Project workflow and strategy
+- z_Project_Plan.txt           --> Current file, updated each time workflow changes
+
+Workflow:
+1. Place images in SIM_DATA/images
+2. Generate captions using generate_image_captions.py
+3. Run SingLoRA training using the images + captions
+4. Logs saved in LOGS/, final models in OUTPUT/
+5. Update work_strategy_for_ai_zz.txt after each major step
+6. Always check z_Project_Plan.txt before starting to ensure folder structure is intact
+
+Versioning:
+- Always prefix the latest version of any file/folder with z_ (e.g., z_SingLoRA_Project)
+- Old versions can be deleted if desktop is cluttered, after backup if needed

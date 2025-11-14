@@ -1,0 +1,11 @@
+SingLoRA Project Folder Structure:
+- /home/snap/Desktop/z_SingLoRA_Project/
+    - /SIM_DATA/
+        - /images/ (place all training images here)
+        - /captions/ (place all caption files here)
+    - /LOGS/ (log files from the training process)
+
+Instructions:
+1. Always place images in /SIM_DATA/images.
+2. Place generated captions in /SIM_DATA/captions.
+3. The SingLoRA project should always be inside /z_SingLoRA_Project/ for easy management.

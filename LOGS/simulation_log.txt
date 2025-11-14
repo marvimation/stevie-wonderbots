@@ -1,0 +1,14 @@
+[2025-11-11 10:52:58.475530] Starting SingLoRA simulation...
+[2025-11-11 10:52:58.492292] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_001.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_001.txt
+[2025-11-11 10:52:58.498615] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_002.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_002.txt
+[2025-11-11 10:52:58.504646] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_003.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_003.txt
+[2025-11-11 10:52:58.510503] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_004.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_004.txt
+[2025-11-11 10:52:58.516129] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_005.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_005.txt
+[2025-11-11 10:52:58.516154] Simulation complete. Files saved to /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA
+[2025-11-11 10:53:22.211214] Starting SingLoRA simulation...
+[2025-11-11 10:53:22.224455] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_001.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_001.txt
+[2025-11-11 10:53:22.230187] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_002.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_002.txt
+[2025-11-11 10:53:22.235863] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_003.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_003.txt
+[2025-11-11 10:53:22.241339] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_004.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_004.txt
+[2025-11-11 10:53:22.246657] Created /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_image_005.png and /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA/sim_caption_005.txt
+[2025-11-11 10:53:22.246683] Simulation complete. Files saved to /home/snap/Desktop/z_SingLoRA_Project/SIM_DATA

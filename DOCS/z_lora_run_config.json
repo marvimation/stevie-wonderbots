@@ -1,0 +1,15 @@
+{
+  "project_name": "SingLoRA_Test_Run",
+  "base_model": "netayume",
+  "train_data_dir": "/home/snap/Desktop/z_SingLoRA_Project/DATA",
+  "output_dir": "/home/snap/Desktop/z_SingLoRA_Project/OUTPUT",
+  "resolution": 512,
+  "batch_size": 1,
+  "num_epochs": 1,
+  "learning_rate": 1e-4,
+  "mixed_precision": "no",
+  "use_cpu": true,
+  "swap_memory": true,
+  "log_dir": "/home/snap/Desktop/z_SingLoRA_Project/DOCS",
+  "notes": "Initial CPU test config for dataset pipeline validation."
+}

@@ -1,0 +1,10 @@
+[Tue Nov 11 10:11:24 2025] === SingLoRA Training Bootstrap Started ===
+[Tue Nov 11 10:11:24 2025] Loaded config for project: SingLoRA_Test_Run
+[Tue Nov 11 10:11:24 2025] Using base model: netayume
+[Tue Nov 11 10:11:24 2025] Training data directory: /home/snap/Desktop/z_SingLoRA_Project/DATA
+[Tue Nov 11 10:11:24 2025] Running in CPU mode...
+[Tue Nov 11 10:11:24 2025] Epoch 1/1 started...
+[Tue Nov 11 10:11:26 2025] Epoch 1/1 complete.
+[Tue Nov 11 10:11:26 2025] Training simulation complete.
+[Tue Nov 11 10:11:26 2025] Output stored in: /home/snap/Desktop/z_SingLoRA_Project/OUTPUT
+[Tue Nov 11 10:11:26 2025] === SingLoRA Bootstrap Finished ===
