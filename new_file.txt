@@ -1,0 +1,4 @@
+git add new_file.txt
+# Or add multiple files
+git add .
+
