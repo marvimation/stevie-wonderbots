@@ -1,0 +1,15 @@
+Project: stevie-wonderbots
+Location: ~/Desktop/github/z_stevie-wonderbots
+
+Folder Structure:
+- ssh_keys/          # SSH keys already in main github folder
+- repos/             # cloned or new repositories
+- assets/            # images, icons, media files
+- scripts/           # bash, python scripts
+- docs/              # documentation and notes
+
+Steps:
+1. Initialize Git repo
+2. Add README.md
+3. Create main code folders
+4. Track workflow and updates here
